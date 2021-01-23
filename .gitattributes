@@ -1,18 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-<!DOCTYPE html>
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-	<title>Test page</title>
-<body>
-<h1>Hey. I'm a big heading </h1>
-	<p><b>Paragraph</b> </p>
-	<a href="https://google.com" target="_blank"title="lets go to google"> Click me </a>
-	<p>My name is:<br>
-	Kitty cat</p>
-	<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*">
-</body>
-</html>
